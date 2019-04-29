@@ -1,0 +1,22 @@
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\bin\Debug\Assignment Programme.exe.config
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\bin\Debug\Assignment Programme.exe
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\bin\Debug\Assignment Programme.pdb
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.csprojResolveAssemblyReference.cache
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.frmcustomer.resources
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.frmmenu.resources
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.Properties.Resources.resources
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.csproj.GenerateResource.Cache
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.exe
+N:\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\bin\Debug\Assignment Programme.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\bin\Debug\Assignment Programme.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\bin\Debug\Assignment Programme.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.csprojResolveAssemblyReference.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.frmcustomer.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.frmmenu.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.frmproduct.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment_Programme.Properties.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.csproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.csproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Assignment Two\Assignment Programme\Assignment Programme\obj\Debug\Assignment Programme.pdb
